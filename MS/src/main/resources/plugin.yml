@@ -1,0 +1,6 @@
+name: MS
+version: 1.0-SNAPSHOT
+main: org.msce.MS
+api-version: 1.21 # La versione dell'API di Spigot/PaperMC che stai usando. Per 1.21.8, va bene 1.20 o 1.21.
+author: TuoNome
+description: A bridge for evolving combat strategies in Minecraft.
